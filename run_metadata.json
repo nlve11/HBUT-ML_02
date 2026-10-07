@@ -1,0 +1,13 @@
+{
+  "python": "3.12.10",
+  "torch": "2.13.0+cpu",
+  "torchvision": "0.28.0+cpu",
+  "device": "cpu",
+  "train_samples": 10000,
+  "val_samples": 2000,
+  "test_samples": 2000,
+  "epochs": 6,
+  "best_epoch": 5,
+  "best_val_loss": 0.4205689125061035,
+  "elapsed_seconds": 6.070928099972662
+}
